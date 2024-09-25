@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio02</string>
+    <string name="Factorial">Factorial</string>
+    <string name="text">Introduce un numero entero</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio02</string>
+    <string name="Factorial">Multiplicative</string>
+    <string name="text">Enter a whole number</string>
+</resources>
